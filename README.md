@@ -1,3 +1,5 @@
+![](https://github.com/dome385/bank-landingpage/blob/main/src/assets/Recording%202024-02-02%20at%2023.40.50.gif)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
